@@ -1,0 +1,4 @@
+name: fastai with mlflow
+
+docker_env:
+    image: datadrone/deeplearn_pytorch
